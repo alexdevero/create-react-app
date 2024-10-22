@@ -50,7 +50,7 @@
     "fs-extra": "0.30.0",
     "gzip-size": "3.0.0",
     "html-webpack-plugin": "2.28.0",
-    "http-proxy-middleware": "0.17.3",
+    "http-proxy-middleware": "2.0.7",
     "jest": "18.1.0",
     "object-assign": "4.1.1",
     "postcss-loader": "1.2.2",
